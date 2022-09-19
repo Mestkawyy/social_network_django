@@ -16,18 +16,3 @@ Current Features:
 4. Send friend request and accept request
 5. Live chat with friends
 
-### Screenshots
-
-## Home page
-
-<img src="screenshots/one.png" height="400">
-
-## Live Chatting
-
-<img src="screenshots/two.png" height="400">
-
-## Notification
-
-<img src="screenshots/three.png" height="400">
-
-Show your support by 🌟 the project!!
