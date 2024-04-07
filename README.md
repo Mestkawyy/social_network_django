@@ -1,6 +1,5 @@
 ## Django Social Network
 
-#### An open source Social Network
 
 Used Tech Stack
 
